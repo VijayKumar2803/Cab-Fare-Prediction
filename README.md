@@ -47,10 +47,9 @@ The results of the project demonstrate the effectiveness of machine learning tec
 
 To use the trained models for cab fare prediction, follow these steps:
 
-1. Install the required dependencies listed in the `requirements.txt` file.
-2. Load the trained model using the provided scripts or notebooks.
-3. Provide input features such as pickup location, drop-off location, number of passengers, and timestamp.
-4. Use the loaded model to predict the fare amount for the given input.
+1. Load the trained model using the provided scripts or notebooks.
+2. Provide input features such as pickup location, drop-off location, number of passengers, and timestamp.
+3. Use the loaded model to predict the fare amount for the given input.
 
 ## Contributing
 
